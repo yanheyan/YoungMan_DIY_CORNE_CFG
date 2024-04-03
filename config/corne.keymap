@@ -49,7 +49,7 @@
             bindings = <
 &kp ESCAPE  &kp N1        &kp N2      &kp N3         &kp N4     &kp N5       &kp N6         &kp N7     &kp N8           &kp N9      &kp N0     &kp DEL
 &kp LC(V)   &kp NUMBER_6  &kp N7      &kp N8         &kp N9     &kp N0       &kp MINUS      &kp EQUAL  &kp BSLH         &kp LBKT    &kp RBKT   &kp SLASH
-&kp LC(Z)   &kp ENTER     &kp PERIOD  &kp BACKSPACE  &kp LEFT   &kp RIGHT    &kp SEMICOLON  &kp SQT    &kp COMMA        &kp PERIOD  &kp GRAVE  &to 2
+&kp LC(Z)   &kp ENTER     &kp KP_DOT  &kp BACKSPACE  &kp LEFT   &kp RIGHT    &kp SEMICOLON  &kp SQT    &kp COMMA        &kp PERIOD  &kp GRAVE  &to 2
                                       &kp UP         &kp LC(C)  &kp COLON    &kp RET        &mo 2      &kp RIGHT_SHIFT
             >;
         };
